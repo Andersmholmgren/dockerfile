@@ -1,7 +1,7 @@
 name: dockerfile
 description: >
   A library for manipulating [Dockerfile](https://docs.docker.com/reference/builder/)
-version: 0.0.1+1
+version: 0.0.1+2
 author: Anders Holmgren <andersmholmgren@gmail.com>
 homepage: https://github.com/Andersmholmgren/dockerfile
 environment:

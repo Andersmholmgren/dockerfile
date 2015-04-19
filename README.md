@@ -1,6 +1,6 @@
 # dockerfile
 
-A library for Dart developers. It is awesome.
+A library for manipulating [Dockerfile](https://docs.docker.com/reference/builder/)
 
 ## Usage
 
