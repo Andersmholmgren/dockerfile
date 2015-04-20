@@ -3,19 +3,4 @@
 
 library dockerfile.test;
 
-import 'package:unittest/unittest.dart';
-import 'package:dockerfile/dockerfile.dart';
-
-main() {
-  group('A group of tests', () {
-    Awesome awesome;
-
-    setUp(() {
-      awesome = new Awesome();
-    });
-
-    test('First Test', () {
-      expect(awesome.isAwesome, isTrue);
-    });
-  });
-}
+main() {}
