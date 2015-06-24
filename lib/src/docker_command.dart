@@ -116,7 +116,10 @@ class _BaseRunCommand extends _BaseCommandWithExecForm {
       : super(name, execForm);
 
   @override
-  Iterable<String> get commandArgs => concat([[command], args]);
+  Iterable<String> get commandArgs => concat([
+        [command],
+        args
+      ]);
 }
 
 String _formatList(Iterable<String> list) {
