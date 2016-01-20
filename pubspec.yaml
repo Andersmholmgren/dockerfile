@@ -1,12 +1,11 @@
-name: dockerfile
-description: >
-  A library for manipulating [Dockerfile](https://docs.docker.com/reference/builder/)
-version: 0.0.1+2
 author: Anders Holmgren <andersmholmgren@gmail.com>
+description: A library for manipulating [Dockerfile](https://docs.docker.com/reference/builder/)
+
 homepage: https://github.com/Andersmholmgren/dockerfile
-environment:
-  sdk: ">=1.8.0 <2.0.0"
-dependencies:
+name: dockerfile
+version: 0.0.1+2
+dependencies: 
   quiver: '^0.21.3'
-dev_dependencies:
-  unittest: any
+dependency_overrides: 
+environment:
+  sdk: '>=1.8.0 <2.0.0'
