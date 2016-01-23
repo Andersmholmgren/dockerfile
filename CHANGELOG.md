@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.3
+
+- Fix analyzer warnings
+
 ## 0.0.2
 
 - tidy dependency versions
