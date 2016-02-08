@@ -5,8 +5,9 @@ library dockerfile.spec;
 
 import 'dart:async';
 import 'dart:io';
-import 'package:path/path.dart' as p;
+
 import 'package:dockerfile/src/docker_command.dart';
+import 'package:path/path.dart' as p;
 
 const String _standardFileName = 'Dockerfile';
 
