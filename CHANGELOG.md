@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0
+
+- Dart 2
+
 ## 0.0.4
 
 - tidied a few things

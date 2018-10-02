@@ -2,7 +2,7 @@ author: "Anders Holmgren <andersmholmgren@gmail.com>"
 description: "A library for manipulating [Dockerfile](https://docs.docker.com/reference/builder/)"
 homepage: "https://github.com/Andersmholmgren/dockerfile"
 name: "dockerfile"
-version: "0.0.4"
+version: "0.1.0"
 dependencies: 
   path: ">=1.3.9"
   quiver: ">=0.21.3"
