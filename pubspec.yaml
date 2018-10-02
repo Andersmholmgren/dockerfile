@@ -3,7 +3,7 @@ description: "A library for manipulating [Dockerfile](https://docs.docker.com/re
 homepage: "https://github.com/Andersmholmgren/dockerfile"
 name: "dockerfile"
 version: "0.1.0"
-dependencies:
+dependencies: 
   path: "^1.6.2"
   quiver: "^2.0.0+1"
 environment: 
